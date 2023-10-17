@@ -1,0 +1,12 @@
+section {
+   border: 3px solid red;
+   margin: 1rem;
+   padding: .5rem;
+   width: 25%;
+}
+
+button {
+   display: block;
+   margin: .5rem auto;
+   color: red;
+}
